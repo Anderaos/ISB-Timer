@@ -14,4 +14,4 @@ This simple script allows the user to set a concert and record the timecodes for
 8. Enter `Quit` to end the script.
 
 ### ToDo
-[] Add a graphical user interface.
+- [ ] Add a graphical user interface.
